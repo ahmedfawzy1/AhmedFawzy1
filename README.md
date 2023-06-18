@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript,Bootstrap**
 
-- 💬 Ask me about **Html,Css,Javascript**
+- 💬 Ask me about **Html,CSS,Javascript,Rect**
 
 - 📫 How to reach me **ahmedfawzy100038@gmail.com**
 
