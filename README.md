@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fresh Cart](https://ahmedfawzy1.github.io/freshcart/)
 
-- 👨‍💻 All of my projects are available at [https://ahmedfawzy1.github.io/portfolio/](https://ahmedfawzy1.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ahmedfawzy.vercel.app](https://ahmedfawzy.vercel.app)
 
 - 💬 Ask me about **React, Next.js**
 
