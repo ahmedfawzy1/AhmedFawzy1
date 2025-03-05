@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
 <h3 align="center">A passionate and innovative Frontend Developer</h3>
 
-- 🔭 I’m currently working on [Fresh Cart](https://ahmedfawzy1.github.io/freshcart/)
+- 🔭 I’m currently working on [levoire](https://ahmedfawzy1.github.io/levoire)
 
 - 👨‍💻 All of my projects are available at [https://ahmedfawzy.vercel.app](https://ahmedfawzy.vercel.app)
 
