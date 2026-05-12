@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
-<h3 align="center">A passionate and innovative Frontend Developer</h3>
-
-- 🔭 I’m currently working on [levoire](https://ahmedfawzy1.github.io/levoire)
+<h3 align="center">A passionate and innovative Full-Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://ahmedfawzy.vercel.app](https://ahmedfawzy.vercel.app)
 
 - 💬 Ask me about **React, Next.js**
 
-- 📫 How to reach me **ahmedfawzy100038@gmail.com**
+- 📫 How to reach me **ahmedfawzydevs@gmail.com**
 
 - 📄 Know about my experiences [https://ahmedfawzy1.github.io/cv/](https://ahmedfawzy1.github.io/cv/)
 
