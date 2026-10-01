@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
 <h3 align="center">A passionate and innovative Full-Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://ahmedfawzy.vercel.app](https://ahmedfawzy.vercel.app)
-
 - 💬 Ask me about **React, Next.js**
 
 - 📫 How to reach me **ahmedfawzydevs@gmail.com**
-
-- 📄 Know about my experiences [https://ahmedfawzy1.github.io/cv/](https://ahmedfawzy1.github.io/cv/)
 
 <p align="left">
 </p>
